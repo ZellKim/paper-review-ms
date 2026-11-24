@@ -20,7 +20,7 @@ $integrated-paper-review 첨부한 원고와 부록을 검토해 줘. 독자가 
 
 | 스킬 | 출처와 버전 | 용도 |
 | --- | --- | --- |
-| `integrated-paper-review` | 이 묶음의 자체 스킬, 2026-11-23 배포본 | 검토 절차, 독자 판단 실습, 주요 지적 검증과 심사평 종합 |
+| `integrated-paper-review` | 이 묶음의 자체 스킬, 2026-11-25 갱신본 | 검토 절차, 독자 판단 실습, 필수 보완 판정, 재검토 종료·재개 기준과 심사평 종합 |
 | `paper-review-panel` | 이 묶음의 자체 스킬, 2026-11-23 배포본 | 방법론·통계, 비교 공정성, 도메인, 회의적 독자, 글쓰기·표현의 다섯 역할 |
 | `scientific-critical-thinking` | K-Dense Inc., 1.5, MIT | 과학적 주장과 근거 평가 |
 | `peer-review` | K-Dense Inc., 2.4, MIT | 근거를 명시한 심사평과 점검 양식 |
