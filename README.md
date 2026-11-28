@@ -23,7 +23,7 @@ $integrated-paper-review 첨부한 원고와 부록을 검토해 줘. 독자가 
 
 | 버전 | 변경 내용 | 설치용 ZIP |
 | --- | --- | --- |
-| v2026.11.28 | 독립 패널과 다섯 역할 지침을 `integrated-paper-review`에 통합했습니다. 패널만 요청하거나 번호·이름으로 역할을 선택할 수 있습니다. | 이번 배포 |
+| [v2026.11.28](https://github.com/ZellKim/paper-review-ms/tree/9ee7c4fa74fac0453152795c3a6449b9da4f90ce) | 독립 패널과 다섯 역할 지침을 `integrated-paper-review`에 통합했습니다. 패널만 요청하거나 번호·이름으로 역할을 선택할 수 있습니다. [직전 버전과 비교](https://github.com/ZellKim/paper-review-ms/compare/6db75d4172447c27deb9b9d92c427dc05cd7702f...9ee7c4fa74fac0453152795c3a6449b9da4f90ce) | [ZIP](https://github.com/ZellKim/paper-review-ms/archive/9ee7c4fa74fac0453152795c3a6449b9da4f90ce.zip) |
 | [v2026.11.27](https://github.com/ZellKim/paper-review-ms/tree/6db75d4172447c27deb9b9d92c427dc05cd7702f) | 문단 논리 검토와 랩미팅 예상 질문·답변 준비를 각각 단독으로 요청할 수 있습니다. 통합 리뷰도 요청하면 독립 패널 검토와 독자 실습을 먼저 진행합니다. [직전 버전과 비교](https://github.com/ZellKim/paper-review-ms/compare/192f99c94763a36e5634543f9511ab56879c9ce0...6db75d4172447c27deb9b9d92c427dc05cd7702f) | [ZIP](https://github.com/ZellKim/paper-review-ms/archive/6db75d4172447c27deb9b9d92c427dc05cd7702f.zip) |
 | [v2026.11.25](https://github.com/ZellKim/paper-review-ms/tree/192f99c94763a36e5634543f9511ab56879c9ce0) | 전체 재검토와 변경 사항 확인의 범위를 구분하고, 기존 검증을 재사용했을 때 심사평에 밝히도록 했습니다. | [ZIP](https://github.com/ZellKim/paper-review-ms/archive/192f99c94763a36e5634543f9511ab56879c9ce0.zip) |
 
