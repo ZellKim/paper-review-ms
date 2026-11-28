@@ -16,13 +16,23 @@ $integrated-paper-review 첨부한 원고와 부록을 검토해 줘. 독자가 
 
 다섯 역할을 독립적으로 실행하려면 하위 에이전트를 지원하는 환경이 필요합니다. `peer-review`의 선택적 점검 스크립트를 사용할 때는 Python 3.11 이상이 필요합니다.
 
+## 버전 이력
+
+| 버전 | 변경 내용 |
+| --- | --- |
+| `v2026.11.27` | 문단 논리 검토와 랩미팅 예상 질문·답변 준비를 각각 단독으로 요청할 수 있습니다. 통합 리뷰도 요청하면 독립 패널 검토와 독자 실습을 먼저 진행합니다. |
+| [v2026.11.25](https://github.com/ZellKim/paper-review-ms/tree/192f99c94763a36e5634543f9511ab56879c9ce0) | 전체 재검토와 변경 사항 확인의 범위를 구분하고, 기존 검증을 재사용했을 때 심사평에 밝히도록 했습니다. |
+
+배포 버전은 스킬을 갱신한 날짜로 `vYYYY.MM.DD`를 붙입니다. 같은 날 다시 배포하면 `.2`, `.3`을 차례로 붙입니다. 새 버전을 배포할 때는 변경한 스킬과 이 표를 함께 커밋하고, 커밋 제목에 버전을 적습니다. [배포 커밋 이력](https://github.com/ZellKim/paper-review-ms/commits/main/)
+
 ## 구성과 출처
 
 | 스킬 | 출처와 버전 | 용도 |
 | --- | --- | --- |
-| `integrated-paper-review` | 이 묶음의 자체 스킬, 2026-11-25 갱신본 | 검토 절차, 독자 판단 실습, 필수 보완 판정, 재검토 종료·재개 기준과 심사평 종합 |
+| `integrated-paper-review` | 이 묶음의 자체 스킬, v2026.11.27 | 검토 절차, 독자 판단 실습, 필수 보완 판정, 재검토 종료·재개 기준과 심사평 종합 |
 | `paper-review-panel` | 이 묶음의 자체 스킬, 2026-11-23 배포본 | 방법론·통계, 비교 공정성, 도메인, 회의적 독자, 글쓰기·표현의 다섯 역할 |
 | `scientific-critical-thinking` | K-Dense Inc., 1.5, MIT | 과학적 주장과 근거 평가 |
 | `peer-review` | K-Dense Inc., 2.4, MIT | 근거를 명시한 심사평과 점검 양식 |
 
 K-Dense 두 폴더의 33개 파일은 공식 저장소의 지정 커밋과 파일별 해시가 일치합니다. MIT 라이선스는 위 표의 K-Dense 두 스킬에 적용됩니다. 보안 고지 발췌문의 상대 링크는 원본 저장소를 기준으로 합니다. [원본 커밋](https://github.com/K-Dense-AI/scientific-agent-skills/tree/ec59a29a03d5c40f73ab40878df04860bc00e876) · [MIT 원문](licenses/K-Dense/LICENSE.md) · [K-Dense 보안 고지](licenses/K-Dense/security_disclaimer_20261123.txt)
+
