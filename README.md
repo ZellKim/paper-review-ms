@@ -18,12 +18,12 @@ $integrated-paper-review 첨부한 원고와 부록을 검토해 줘. 독자가 
 
 ## 버전 이력
 
-| 버전 | 변경 내용 |
-| --- | --- |
-| `v2026.11.27` | 문단 논리 검토와 랩미팅 예상 질문·답변 준비를 각각 단독으로 요청할 수 있습니다. 통합 리뷰도 요청하면 독립 패널 검토와 독자 실습을 먼저 진행합니다. |
-| [v2026.11.25](https://github.com/ZellKim/paper-review-ms/tree/192f99c94763a36e5634543f9511ab56879c9ce0) | 전체 재검토와 변경 사항 확인의 범위를 구분하고, 기존 검증을 재사용했을 때 심사평에 밝히도록 했습니다. |
+| 버전 | 변경 내용 | 설치용 ZIP |
+| --- | --- | --- |
+| [v2026.11.27](https://github.com/ZellKim/paper-review-ms/tree/6db75d4172447c27deb9b9d92c427dc05cd7702f) | 문단 논리 검토와 랩미팅 예상 질문·답변 준비를 각각 단독으로 요청할 수 있습니다. 통합 리뷰도 요청하면 독립 패널 검토와 독자 실습을 먼저 진행합니다. [직전 버전과 비교](https://github.com/ZellKim/paper-review-ms/compare/192f99c94763a36e5634543f9511ab56879c9ce0...6db75d4172447c27deb9b9d92c427dc05cd7702f) | [ZIP](https://github.com/ZellKim/paper-review-ms/archive/6db75d4172447c27deb9b9d92c427dc05cd7702f.zip) |
+| [v2026.11.25](https://github.com/ZellKim/paper-review-ms/tree/192f99c94763a36e5634543f9511ab56879c9ce0) | 전체 재검토와 변경 사항 확인의 범위를 구분하고, 기존 검증을 재사용했을 때 심사평에 밝히도록 했습니다. | [ZIP](https://github.com/ZellKim/paper-review-ms/archive/192f99c94763a36e5634543f9511ab56879c9ce0.zip) |
 
-배포 버전은 스킬을 갱신한 날짜로 `vYYYY.MM.DD`를 붙입니다. 같은 날 다시 배포하면 `.2`, `.3`을 차례로 붙입니다. 새 버전을 배포할 때는 변경한 스킬과 이 표를 함께 커밋하고, 커밋 제목에 버전을 적습니다. [배포 커밋 이력](https://github.com/ZellKim/paper-review-ms/commits/main/)
+배포 버전은 스킬을 갱신한 날짜로 `vYYYY.MM.DD`를 붙입니다. 같은 날 다시 배포하면 `.2`, `.3`을 차례로 붙입니다. 새 버전을 배포할 때는 변경한 스킬과 이 표를 함께 커밋하고, 커밋 제목에 버전을 적습니다. 배포 커밋이 만들어지면 그 커밋의 파일 목록과 ZIP 링크를 표에 기록합니다. [배포 커밋 이력](https://github.com/ZellKim/paper-review-ms/commits/main/)
 
 ## 구성과 출처
 
