@@ -1,4 +1,4 @@
 interface:
   display_name: "통합 논문 리뷰 패널"
-  short_description: "다섯 역할의 원고 검토와 최종 파일만으로 내린 독자 판단을 담은 심사평"
+  short_description: "논문·보고서의 독립 패널, 역할별 검토, 독자 판단과 저자용 심사평"
   default_prompt: "$integrated-paper-review로 이 원고를 검토하고, 독자가 최종 파일만으로 내린 판단을 포함해 심사평을 작성해 줘."

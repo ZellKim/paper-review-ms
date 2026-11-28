@@ -1,4 +1,0 @@
-interface:
-  display_name: "논문 리뷰 패널"
-  short_description: "다섯 독립 AI 리뷰어로 논문과 연구 보고서를 근거 중심으로 검토"
-  default_prompt: "Use $paper-review-panel to review this manuscript with five independent reviewers and consolidate evidence-backed findings."
